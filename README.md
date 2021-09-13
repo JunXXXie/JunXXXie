@@ -5,7 +5,7 @@
   Mobil Application Development using React Native and Java, 
   and Cloud Hosting using Linux and Docker on Google Could Platform. 
   
-  Familiar with PHP, SQL, JavaScript, Docker, Dafny, Python, Java, etc.
+- Familiar with PHP, SQL, JavaScript, Docker, Dafny, Python, Java, etc.
   
 - I’m looking for a chance to work with professionals in the industry and keep learning and improving my skills to achieve my goals of being a senior developer in the future.
 
